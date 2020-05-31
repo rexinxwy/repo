@@ -33,19 +33,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://zhuansun.github.io/repo/jietu/1.png"
+              "url": "https://rexinxwy.github.io/repo/images/1.jpeg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://zhuansun.github.io/repo/jietu/2.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://zhuansun.github.io/repo/jietu/3.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://zhuansun.github.io/repo/jietu/4.png"
+              "url": "https://rexinxwy.github.io/repo/images/2.jpeg"
             }
           ],
           "class": "DepictionScreenshotsView",
