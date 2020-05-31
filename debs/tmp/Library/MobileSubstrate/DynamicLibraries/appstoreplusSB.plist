@@ -6,9 +6,7 @@
 	<dict>
 		<key>Bundles</key>
 		<array>
-			<string>tv.danmaku.bilianime</string>
-			<string>tv.danmaku.biliblue</string>
-			<string>com.1318566569.bilibili</string>
+			<string>com.apple.springboard</string>
 		</array>
 	</dict>
 </dict>
