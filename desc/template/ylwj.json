@@ -1,5 +1,5 @@
 {
-  "headerImage": "https://github.com/sileo-cydia/zhuansun.github.io/repo/blob/master/tupian/31.jpg?raw=true",
+  "headerImage": "https://github.com/sileo-cydia/rexinxwy.github.io/repo/blob/master/tupian/31.jpg?raw=true",
   "tabs": [
     {
       "tabname": "详情描述",
@@ -19,19 +19,19 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://zhuansun.github.io/repo/jietu/1.png"
+              "url": "https://rexinxwy.github.io/repo/jietu/1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://zhuansun.github.io/repo/jietu/2.png"
+              "url": "https://rexinxwy.github.io/repo/jietu/2.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://zhuansun.github.io/repo/jietu/3.png"
+              "url": "https://rexinxwy.github.io/repo/jietu/3.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://zhuansun.github.io/repo/jietu/4.png"
+              "url": "https://rexinxwy.github.io/repo/jietu/4.png"
             }
           ],
           "class": "DepictionScreenshotsView",
@@ -87,18 +87,18 @@
         },
         {
           "title": "越狱软件下载",
-          "action": "https://zhuansun.github.io/repo/%E4%BC%81%E4%B8%9A%E8%B6%8A%E7%8B%B1%E5%90%88%E9%9B%86/",
+          "action": "https://rexinxwy.github.io/repo/%E4%BC%81%E4%B8%9A%E8%B6%8A%E7%8B%B1%E5%90%88%E9%9B%86/",
           "class": "DepictionTableButtonView"
         },
         {
           "title": "破解软件下载",
-          "action": "https://zhuansun.github.io/repo/%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86/",
+          "action": "https://rexinxwy.github.io/repo/%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86/",
           "class": "DepictionTableButtonView"
         },
         {
           "title": "越狱相关教程",
           "class": "DepictionTableButtonView",
-          "action": "https://zhuansun.github.io/repo/%E8%B6%8A%E7%8B%B1%E6%95%99%E7%A8%8B/"
+          "action": "https://rexinxwy.github.io/repo/%E8%B6%8A%E7%8B%B1%E6%95%99%E7%A8%8B/"
         },
         {
           "package": "audiorecorderxs",
