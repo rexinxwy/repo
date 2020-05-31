@@ -1,0 +1,13 @@
+Package: rexinxwy.zq.bilibilivip
+Version: 1.0.4
+Section: Rexin-增强(Enhance)
+Maintainer: Rexinxwy <rexinxiaowangyou@163.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Name: Bilibili VIP「大会员」
+Author: 星星点灯
+Sponsor: Rexinxwy <rexinxiaowangyou@163.com>
+Icon: xxx
+Description: 解锁哔哩哔哩大会员，需登录自己账户
+Depiction: https://rexinxwy.github.io/repo/desc/description.html?id=bilibilivip
+
