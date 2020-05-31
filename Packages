@@ -3,15 +3,15 @@ Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Rexinxwy <rexinxiaowangyou@163.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/12.deb
-Size: 631448
-MD5sum: a943f7e72b69042d741b88f0ebcdad57
-SHA1: 7124dbcea8ad2aee498826f961864b565d09a3fa
-SHA256: 0d5140e2923f32d222c7c681c4b57d7bf45a6729a785a26da00835fc0451b38c
+Filename: ./debs/bilibilivip_1.0.4_iphoneos-arm.deb
+Size: 631752
+MD5sum: 38a77dab567e6fb4b28e115905bfe5af
+SHA1: 953771ff3e5e76f7761d24d688442eeaa54bc492
+SHA256: b2fa0945eda90a93846ceb8b08c979a0a8b3624088a6f35bfbdfd6870f031b6d
 Section: Rexin-增强(Enhance)
 Description: 解锁哔哩哔哩大会员，需登录自己账户
 Author: 星星点灯
-Depiction: https://www.baidu.com/
+Depiction: https://rexinxwy.github.io/repo/desc/description.html?id=bilibilivip
 Icon: xxx
 Name: Bilibili VIP「大会员」
 Sponsor: Rexinxwy <rexinxiaowangyou@163.com>
