@@ -5,10 +5,10 @@ Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: com.unlimapps.uaupdatetools
 Filename: ./debs/appstoreplusplus_0.9.10_iphoneos-arm.deb
-Size: 327716
-MD5sum: 6efa66e47bf42101b49be526a99afa95
-SHA1: 5344af0e6c08533848aa019c2c299d0e41ea1d95
-SHA256: 4d1978933db6482a24c3cd2660bf23f8f0e47dec26336031261db98ebda07d67
+Size: 327496
+MD5sum: e35d18c853dd4e7be7858c1085251a0a
+SHA1: ed9a621bc7d14076c4630b45e45b1f9e8cae4ae6
+SHA256: ccc163a72389cff9991c0a0e9b7a6f01bb38a309be2c2c4c898c51c42983060e
 Section: Rexin-插件(Tweaks)
 Priority: optional
 Description: 允许你降级/升级iOS 11.0-13.4应用商店中的应用程序
@@ -24,10 +24,10 @@ Architecture: iphoneos-arm
 Maintainer: Rexinxwy <rexinxiaowangyou@163.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/bilibilivip_1.0.4_iphoneos-arm.deb
-Size: 631752
-MD5sum: 38a77dab567e6fb4b28e115905bfe5af
-SHA1: 953771ff3e5e76f7761d24d688442eeaa54bc492
-SHA256: b2fa0945eda90a93846ceb8b08c979a0a8b3624088a6f35bfbdfd6870f031b6d
+Size: 631408
+MD5sum: f3b329a64c45c40715b00154888658c0
+SHA1: be705fa100a075ed8c0c711b67ae015902ed525a
+SHA256: b7f54aac04b815abd8ebc88011fe9d5af6831f25dcf97a34f8bf12d1a032791d
 Section: Rexin-增强(Enhance)
 Description: 解锁哔哩哔哩大会员，需登录自己账户
 Author: 星星点灯
