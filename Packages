@@ -1,3 +1,23 @@
+Package: rexinxwy.cj.appstoreplusplus
+Version: 0.9.10
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs/appstoreplusplus_0.9.10_iphoneos-arm.deb
+Size: 327716
+MD5sum: 6efa66e47bf42101b49be526a99afa95
+SHA1: 5344af0e6c08533848aa019c2c299d0e41ea1d95
+SHA256: 4d1978933db6482a24c3cd2660bf23f8f0e47dec26336031261db98ebda07d67
+Section: Rexin-插件(Tweaks)
+Priority: optional
+Description: 允许你降级/升级iOS 11.0-13.4应用商店中的应用程序
+Author: CokePokes
+Depiction: https://rexinxwy.github.io/repo/desc/description.html?id=appstoreplusplus
+Icon: xxx
+Name: AppStore++「应用降级」
+Sponsor: Rexinxwy <rexinxiaowangyou@163.com>
+
 Package: rexinxwy.zq.bilibilivip
 Version: 1.0.4
 Architecture: iphoneos-arm
