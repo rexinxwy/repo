@@ -1,14 +1,12 @@
-Package: rexinxwy.cj.appstoreplusplus
-Version: 0.9.10
+Package: rexinxwy.cj.taobaoyouhuiquan
+Version: 2.0.9
 Priority: optional
+Description: 淘宝优惠券插件
 Section: Rexin-插件(Tweaks)
-Maintainer: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: com.unlimapps.uaupdatetools
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
 Architecture: iphoneos-arm
-Name: AppStore++「应用降级」
-Author: CokePokes
+Name: 淘宝优惠券
+Author: Mao
 Sponsor: Rexinxwy <rexinxiaowangyou@163.com>
-Icon: xxx
-Description: 允许你降级/升级iOS 11.0-13.4应用商店中的应用程序
-Depiction: https://rexinxwy.github.io/repo/desc/description.html?id=appstoreplusplus
+Icon: xxx.png

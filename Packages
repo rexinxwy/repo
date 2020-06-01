@@ -18,6 +18,24 @@ Icon: xxx
 Name: AppStore++「应用降级」
 Sponsor: Rexinxwy <rexinxiaowangyou@163.com>
 
+Package: rexinxwy.cj.taobaoyouhuiquan
+Version: 2.0.9
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/taobaoyouhuiquan_2.0.9_iphoneos-arm.deb
+Size: 85716
+MD5sum: 10179d35d7463e273ea154cb5d035d34
+SHA1: 0012a274e4d39f247a3f0978ef94311cf97ac99d
+SHA256: cc40937fe9bbffc0a41768a4fe931090cf6d0e3fb549dab45fc591ff45931f57
+Section: Rexin-插件(Tweaks)
+Priority: optional
+Description: 淘宝优惠券插件
+Author: Mao
+Icon: xxx.png
+Name: 淘宝优惠券
+Sponsor: Rexinxwy <rexinxiaowangyou@163.com>
+
 Package: rexinxwy.zq.bilibilivip
 Version: 1.0.4
 Architecture: iphoneos-arm
